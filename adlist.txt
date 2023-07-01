@@ -1,0 +1,5 @@
+baidu.com###s-top-left
+baidu.com##.s-top-left-new.s-isindex-wrap
+bilibili.com##.adblock-tips
+baidu.com###con-ar
+baidu.com##.title-content.c-link.c-font-medium.c-line-clamp1
